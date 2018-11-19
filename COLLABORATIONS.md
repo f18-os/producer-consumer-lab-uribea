@@ -1,0 +1,2 @@
+[1] Juan Rincon explained that we were supposed to use the counting semaphores import from python
+[2] Brandon Malanche notified me of the thread while true to ensure the display and conver frame ecd.py defs worked.
